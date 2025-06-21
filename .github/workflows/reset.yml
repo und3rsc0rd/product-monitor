@@ -17,7 +17,7 @@ jobs:
       - name: Setup Node.js environment
         uses: actions/setup-node@v4.4.0
 
-      - name: Check for changes
+      - name: Reset files
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
