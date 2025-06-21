@@ -1,9 +1,9 @@
 const fs = require('fs');
 
-if (fs.existsSync('./djResult.json')) fs.writeFileSync('./djResultOld.json', fs.readFileSync('./djResult.json'));
-if (fs.existsSync('./liveResult.json')) fs.writeFileSync('./liveResultOld.json', fs.readFileSync('./liveResult.json'));
-if (fs.existsSync('./deadAirStore.json')) fs.writeFileSync('./deadAirStoreOld.json', fs.readFileSync('./deadAirStore.json'));
-if (fs.existsSync('./underscoresMarket.json')) fs.writeFileSync('./underscoresMarketOld.json', fs.readFileSync('./underscoresMarket.json'));
+if (fs.existsSync('./data/djResult.json')) fs.writeFileSync('./data/djResultOld.json', fs.readFileSync('./data/djResult.json'));
+if (fs.existsSync('./data/liveResult.json')) fs.writeFileSync('./data/liveResultOld.json', fs.readFileSync('./data/liveResult.json'));
+if (fs.existsSync('./data/deadAirStore.json')) fs.writeFileSync('./data/deadAirStoreOld.json', fs.readFileSync('./data/deadAirStore.json'));
+if (fs.existsSync('./data/underscoresMarket.json')) fs.writeFileSync('./data/underscoresMarketOld.json', fs.readFileSync('./data/underscoresMarket.json'));
 
 var DISCORD_WEBHOOK_URL = process.env.DISCORD_WEBHOOK_URL;
 
@@ -38,7 +38,7 @@ async function runGetShopify(domain) {
 Promise.all([
   runGetShopify("deadair.store")
     .then((data) => {
-      fs.writeFileSync('./deadAirStore.json', JSON.stringify(data.filter((item) => item.vendor === "underscores"), null, 2));
+      fs.writeFileSync('./data/deadAirStore.json', JSON.stringify(data.filter((item) => item.vendor === "underscores"), null, 2));
       return data.filter((item) => item.vendor === "underscores");
     })
     .catch((error) => {
@@ -47,7 +47,7 @@ Promise.all([
     }),
   runGetShopify("market.underscores.plus")
     .then((data) => {
-      fs.writeFileSync('./underscoresMarket.json', JSON.stringify(data, null, 2));
+      fs.writeFileSync('./data/underscoresMarket.json', JSON.stringify(data, null, 2));
       return data;
     })
     .catch((error) => {
@@ -57,8 +57,8 @@ Promise.all([
 ])
   .then(([deadAir, underscoresMarket]) => {
     // Compare the old and new data
-    const oldDeadAir = JSON.parse(fs.readFileSync('./deadAirStoreOld.json', 'utf8'));
-    const oldUnderscoresMarket = JSON.parse(fs.readFileSync('./underscoresMarketOld.json', 'utf8'));
+    const oldDeadAir = JSON.parse(fs.readFileSync('./data/deadAirStoreOld.json', 'utf8'));
+    const oldUnderscoresMarket = JSON.parse(fs.readFileSync('./data/underscoresMarketOld.json', 'utf8'));
     const allOldProducts = [...oldDeadAir, ...oldUnderscoresMarket];
     const allNewProducts = [...deadAir, ...underscoresMarket];
 
@@ -307,8 +307,8 @@ async function getLiveDJSections() {
         });
     }
 
-    fs.writeFileSync('./djResult.json', JSON.stringify(djResult, null, 2));
-    fs.writeFileSync('./liveResult.json', JSON.stringify(liveResult, null, 2));
+    fs.writeFileSync('./data/djResult.json', JSON.stringify(djResult, null, 2));
+    fs.writeFileSync('./data/liveResult.json', JSON.stringify(liveResult, null, 2));
     
     return [djResult, liveResult];
   } catch (error) {
@@ -318,8 +318,8 @@ async function getLiveDJSections() {
 getLiveDJSections()
   .then((data) => {
     // Compare the old and new data
-    const oldDjResult = JSON.parse(fs.readFileSync('./djResultOld.json', 'utf8'));
-    const oldLiveResult = JSON.parse(fs.readFileSync('./liveResultOld.json', 'utf8'));
+    const oldDjResult = JSON.parse(fs.readFileSync('./data/djResultOld.json', 'utf8'));
+    const oldLiveResult = JSON.parse(fs.readFileSync('./data/liveResultOld.json', 'utf8'));
 
     const djUpdatesAndAdditions = data[0].map(item => {
       const oldItem = oldDjResult.find(old => old.url === item.url);

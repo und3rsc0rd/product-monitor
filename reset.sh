@@ -1,9 +1,9 @@
 #!/bin/sh
-printf '[]' > djResult.json
-printf '[]' > deadAirStore.json
-printf '[]' > liveResult.json
-printf '[]' > underscoresMarket.json 
-printf '[]' > djResultOld.json
-printf '[]' > deadAirStoreOld.json
-printf '[]' > liveResultOld.json
-printf '[]' > underscoresMarketOld.json
+printf '[]' > ./data/djResult.json
+printf '[]' > ./data/deadAirStore.json
+printf '[]' > ./data/liveResult.json
+printf '[]' > ./data/underscoresMarket.json 
+printf '[]' > ./data/djResultOld.json
+printf '[]' > ./data/deadAirStoreOld.json
+printf '[]' > ./data/liveResultOld.json
+printf '[]' > ./data/underscoresMarketOld.json
