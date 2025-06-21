@@ -1,7 +1,9 @@
 # product monitor
-monitors [the deadAir store](https://deadair.store) and [underscores market](https://market.underscores.plus) for new products, and monitors [the underscores website](https://underscores.plus) for new live/DJ performances
+monitors [the deadAir store](https://deadair.store) and [underscores market](https://market.underscores.plus) for new products, and monitors [the underscores website](https://underscores.plus) for new live/DJ performances. it does this by web scraping (since there is unfortunately no public API to look at this stuff </3)
 
-depends on a `DISCORD_WEBHOOK_URL` environment variable!
+we use this in a staff-only channel on [underscord](https://discord.gg/UeWkrt7XTD)! it's private because the main author (Sadie) does not trust that her code won't fuck up at some point. web scraping is also inherently fragile - if a website layout changes too drastically, this code WILL break. this monitor is just to keep us alert in case any of us miss something!
+
+powered by GitHub Actions and pure Node.js (no dependencies... yet?). depends on a `DISCORD_WEBHOOK_URL` repository secret - if you want to run this locally, create an environment variable instead.
 
 ## license
 ```
