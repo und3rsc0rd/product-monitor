@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "location": "NYC",
+    "date": "2025-06-26",
+    "name": "Pitchfork & Them present: Night Ou",
+    "url": "https://link.dice.fm/NIGHTOUTARTIST"
+  },
+  {
+    "location": "CDG",
+    "date": "2025-11-05",
+    "name": "Pitchfork Festival Paris",
+    "url": "https://dice.fm/event/yo9bax-a-g-cook-underscores-more-pitchfork-music-festival-paris-2025-5th-nov-lyse-montmartre-paris-tickets"
+  },
+  {
+    "location": "LDN",
+    "date": "2025-11-08",
+    "name": "Pitchfork Festival London",
+    "url": "https://dice.fm/event/2wvqvm-pitchfork-festival-london-panchiko-indigo-de-souza-more-8th-nov-various-venues-earth-shacklewell-arms-the-victoria-cafe-oto-st-matthias-church-london-tickets"
+  }
+]
