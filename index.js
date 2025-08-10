@@ -140,9 +140,11 @@ async function getLiveDJSections() {
     let startIndex, endIndex, djData, liveData;
     let djResult = [],
       liveResult = [];
-    if (res.indexOf(`\\">Live<\\/font>\\n\\n`) > -1) {
+
+    if (res.indexOf(`\\">Live<\\/font>`) > -1) {
+      console.log("Found Live section");
       let data = res;
-      startIndex = data.indexOf(`\\">Live<\\/font>\\n\\n`) + 19;
+      startIndex = data.indexOf(`\\">Live<\\/font>`) + 19;
       data = data.substring(startIndex);
       endIndex = data.indexOf('"content_no_html":');
       data = data.substring(0, endIndex - 2).trim();
@@ -153,13 +155,14 @@ async function getLiveDJSections() {
     }
 
     if (res.indexOf(`\\">DJ<\\/font>`) > -1) {
+      console.log("Found DJ section");
       let data = res;
       startIndex = data.indexOf(`\\">DJ<\\/font>`) + 17;
       data = data.substring(startIndex);
       endIndex = data.indexOf('"content_no_html":');
       data = data.substring(0, endIndex - 2).trim();
-      if (data.indexOf(`\\">Live<\\/font>\\n\\n`) > -1) {
-        endIndex = data.indexOf(`\\">Live<\\/font>\\n\\n`);
+      if (data.indexOf(`\\">Live<\\/font>`) > -1) {
+        endIndex = data.indexOf(`\\">Live<\\/font>`);
         djData = data.substring(0, endIndex - 50).trim();
       } else djData = data.trim();
     }
