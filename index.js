@@ -21,7 +21,7 @@ if (fs.existsSync('./data/liveResult.json')) fs.writeFileSync('./data/liveResult
 if (fs.existsSync('./data/deadAirStore.json')) fs.writeFileSync('./data/deadAirStoreOld.json', fs.readFileSync('./data/deadAirStore.json'));
 if (fs.existsSync('./data/underscoresMarket.json')) fs.writeFileSync('./data/underscoresMarketOld.json', fs.readFileSync('./data/underscoresMarket.json'));
 
-var DISCORD_WEBHOOK_URL = process.env.DISCORD_WEBHOOK_URL;
+var DISCORD_WEBHOOK_URLS = JSON.parse(process.env.DISCORD_WEBHOOK_URLS);
 
 function getShopify(domain, page) {
   return fetch(
@@ -96,36 +96,38 @@ Promise.all([
     const allProductChanges = [...productUpdatesAndAdditions, ...productRemovals];
 
     if (allProductChanges.length > 0) {
-      fetch(DISCORD_WEBHOOK_URL, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          content: 'Product Changes',
-          embeds: allProductChanges.map(item => {
-            let priceString;
-            let color;
-            
-            if (item.status === 'removed') {
-              priceString = `$${item.variants[0].price / 100}`;
-              color = 15548997; // Red
-            } else if (item.status === 'updated') {
-              priceString = `$${item.oldPrice / 100} -> $${item.variants[0].price / 100}`;
-              color = 16705372; // Yellow
-            } else { // New
-              priceString = `$${item.variants[0].price / 100}`;
-              color = 5763719; // Green
-            }
+      DISCORD_WEBHOOK_URLS.forEach((DISCORD_WEBHOOK_URL) => {
+        fetch(DISCORD_WEBHOOK_URL, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            content: 'Product Changes',
+            embeds: allProductChanges.map(item => {
+              let priceString;
+              let color;
+              
+              if (item.status === 'removed') {
+                priceString = `$${item.variants[0].price / 100}`;
+                color = 15548997; // Red
+              } else if (item.status === 'updated') {
+                priceString = `$${item.oldPrice / 100} -> $${item.variants[0].price / 100}`;
+                color = 16705372; // Yellow
+              } else { // New
+                priceString = `$${item.variants[0].price / 100}`;
+                color = 5763719; // Green
+              }
 
-            return {
-              title: item.variants[0].name,
-              description: `Status: ${item.status}`,
-              color: color,
-              fields: [
-                { name: 'Price', value: priceString, inline: true },
-              ],
-            };
+              return {
+                title: item.variants[0].name,
+                description: `Status: ${item.status}`,
+                color: color,
+                fields: [
+                  { name: 'Price', value: priceString, inline: true },
+                ],
+              };
+            }),
           }),
-        }),
+        });
       });
     }
   })
@@ -144,21 +146,22 @@ async function getLiveDJSections() {
     if (res.indexOf(`\\">Live<\\/font>`) > -1) {
       console.log("Found Live section");
       let data = res;
-      startIndex = data.indexOf(`\\">Live<\\/font>`) + 19;
-      data = data.substring(startIndex);
+      startIndex = data.indexOf(`\\">Live<\\/font>`) + 15;
+      data = data.substring(startIndex + 7);
       endIndex = data.indexOf('"content_no_html":');
       data = data.substring(0, endIndex - 2).trim();
       if (data.indexOf(`\\">DJ<\\/font>`) > -1) {
         endIndex = data.indexOf(`\\">DJ<\\/font>`);
-        liveData = data.substring(0, endIndex - 48).trim();
+        liveData = data.substring(0, endIndex + 48).trim();
       } else liveData = data.trim();
+      console.log(liveData)
     }
 
     if (res.indexOf(`\\">DJ<\\/font>`) > -1) {
       console.log("Found DJ section");
       let data = res;
-      startIndex = data.indexOf(`\\">DJ<\\/font>`) + 17;
-      data = data.substring(startIndex);
+      startIndex = data.indexOf(`\\">DJ<\\/font>`) + 20;
+      data = data.substring(startIndex + 7);
       endIndex = data.indexOf('"content_no_html":');
       data = data.substring(0, endIndex - 2).trim();
       if (data.indexOf(`\\">Live<\\/font>`) > -1) {
@@ -405,40 +408,42 @@ getLiveDJSections()
     }
 
     if (allLiveChanges.length > 0) {
-      fetch(DISCORD_WEBHOOK_URL, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          content: 'Live Performance Changes',
-          embeds: allLiveChanges.map((item) => {
-            let color;
-            let fields = [];
-            let title = item.name;
+      DISCORD_WEBHOOK_URLS.forEach((DISCORD_WEBHOOK_URL) => {
+        fetch(DISCORD_WEBHOOK_URL, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            content: 'Live Performance Changes',
+            embeds: allLiveChanges.map((item) => {
+              let color;
+              let fields = [];
+              let title = item.name;
 
-            if (item.status === 'new') {
-              color = 5763719; // Green
-              fields.push({ name: 'Location', value: item.location, inline: true });
-              fields.push({ name: 'Date', value: item.date, inline: true });
-            } else if (item.status === 'updated') {
-              color = 16705372; // Yellow
-              if(item.oldData.name !== item.name) title = `${item.oldData.name} -> ${item.name}`;
-              fields.push({ name: 'Location', value: item.oldData.location === item.location ? item.location : `${item.oldData.location} -> ${item.location}`, inline: true});
-              fields.push({ name: 'Date', value: item.oldData.date === item.date ? item.date : `${item.oldData.date} -> ${item.date}`, inline: true});
-            } else { // removed
-              color = 15548997; // Red
-              fields.push({ name: 'Location', value: item.location, inline: true });
-              fields.push({ name: 'Date', value: item.date, inline: true });
-            }
-            
-            return {
-              title: title,
-              description: `Status: ${item.status}`,
-              url: item.url,
-              color: color,
-              fields: fields,
-            };
+              if (item.status === 'new') {
+                color = 5763719; // Green
+                fields.push({ name: 'Location', value: item.location, inline: true });
+                fields.push({ name: 'Date', value: item.date, inline: true });
+              } else if (item.status === 'updated') {
+                color = 16705372; // Yellow
+                if(item.oldData.name !== item.name) title = `${item.oldData.name} -> ${item.name}`;
+                fields.push({ name: 'Location', value: item.oldData.location === item.location ? item.location : `${item.oldData.location} -> ${item.location}`, inline: true});
+                fields.push({ name: 'Date', value: item.oldData.date === item.date ? item.date : `${item.oldData.date} -> ${item.date}`, inline: true});
+              } else { // removed
+                color = 15548997; // Red
+                fields.push({ name: 'Location', value: item.location, inline: true });
+                fields.push({ name: 'Date', value: item.date, inline: true });
+              }
+              
+              return {
+                title: title,
+                description: `Status: ${item.status}`,
+                url: item.url,
+                color: color,
+                fields: fields,
+              };
+            }),
           }),
-        }),
+        });
       });
     }
   })
