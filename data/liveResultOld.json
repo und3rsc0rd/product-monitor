@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "location": "TYO",
+    "date": "2025-10-04",
+    "name": "Circus Tokyo 10th Anniversary",
+    "url": "https://ja.ra.co/events/2218830"
+  },
+  {
+    "location": "BXL",
+    "date": "2025-11-02",
+    "name": "Les Nuits Weekender",
+    "url": "https://botanique.be/fr/concert/les-nuits-weekender-panda-bear-jane-remover-many-more-2025"
+  },
+  {
+    "location": "CDG",
+    "date": "2025-11-05",
+    "name": "Pitchfork Festival Paris",
+    "url": "https://dice.fm/event/yo9bax-a-g-cook-underscores-more-pitchfork-music-festival-paris-2025-5th-nov-lyse-montmartre-paris-tickets"
+  },
+  {
+    "location": "LDN",
+    "date": "2025-11-08",
+    "name": "Pitchfork Festival London",
+    "url": "https://dice.fm/event/2wvqvm-pitchfork-festival-london-panchiko-indigo-de-souza-more-8th-nov-various-venues-earth-shacklewell-arms-the-victoria-cafe-oto-st-matthias-church-london-tickets"
+  }
+]
