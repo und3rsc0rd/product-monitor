@@ -54,9 +54,111 @@
     "url": "https://www.ticketweb.ca/event/danny-brown-rebel-tickets/14575223?pl=ink"
   },
   {
+    "location": "CLE",
+    "date": "2025-11-13",
+    "name": "Globe Iron",
+    "url": "ttps://www.axs.com/events/1149921/danny-brown-tickets"
+  },
+  {
     "location": "MKE",
     "date": "2025-11-15",
     "name": "The Rave",
     "url": "https://www.etix.com/ticket/p/60818265/danny-brown-milwaukee-the-rave-eagles-club"
+  },
+  {
+    "location": "ORD",
+    "date": "2025-11-16",
+    "name": "Vic Theatre",
+    "url": "https://www.axs.com/events/1152627/danny-brown-tickets"
+  },
+  {
+    "location": "MSP",
+    "date": "2025-11-18",
+    "name": "Uptown Theater",
+    "url": "https://www.ticketmaster.com/event/06006336D7974EA1"
+  },
+  {
+    "location": "SLC",
+    "date": "2025-11-21",
+    "name": "The Complex \\u2013 Rockwell",
+    "url": "https://tickets.thecomplexslc.com/event/danny-brown-tcslc"
+  },
+  {
+    "location": "SMF",
+    "date": "2025-11-24",
+    "name": "Ace of Spades",
+    "url": "https://www.ticketmaster.com/event/1C006336E1153F6D"
+  },
+  {
+    "location": "SFO",
+    "date": "2025-11-25",
+    "name": "The Regency Ballroom",
+    "url": "https://www.axs.com/events/1154898/danny-brown-tickets?skin=goldenvoice"
+  },
+  {
+    "location": "LAX",
+    "date": "2025-11-26",
+    "name": "The Bellwether",
+    "url": "https://www.ticketmaster.com/event/09006336F1964BD2"
+  },
+  {
+    "location": "SNA",
+    "date": "2025-11-28",
+    "name": "The Observatory Santa Ana",
+    "url": "https://www.ticketmaster.com/event/09006337CE714B1A"
+  },
+  {
+    "location": "SAN",
+    "date": "2025-11-29",
+    "name": "The Observatory North Park",
+    "url": "https://www.ticketmaster.com/event/0B006337C4923D25"
+  },
+  {
+    "location": "PHX",
+    "date": "2025-12-02",
+    "name": "Marquee",
+    "url": "https://www.ticketmaster.com/event/19006337E53542F0"
+  },
+  {
+    "location": "AUS",
+    "date": "2025-12-05",
+    "name": "Emo\\u2019s",
+    "url": "https://www.ticketmaster.com/event/3A006336A37A2E92"
+  },
+  {
+    "location": "HOU",
+    "date": "2025-12-06",
+    "name": "White Oak Music Hall",
+    "url": "https://www.ticketmaster.com/event/3A006336BF2D4E37"
+  },
+  {
+    "location": "DAL",
+    "date": "2025-12-07",
+    "name": "Granada",
+    "url": "https://www.prekindle.com/promo/id/-2852852648720291904"
+  },
+  {
+    "location": "ATL",
+    "date": "2025-12-09",
+    "name": "Masquerade",
+    "url": "https://www.ticketmaster.com/event/0E006337DBCF5DAC"
+  },
+  {
+    "location": "BWI",
+    "date": "2025-12-11",
+    "name": "Nevermore Music Hall",
+    "url": "https://www.ticketmaster.com/event/15006338A35A2753"
+  },
+  {
+    "location": "PHL",
+    "date": "2025-12-13",
+    "name": "Theatre of Living Arts",
+    "url": "https://www.ticketmaster.com/event/02006334F5F37A80"
+  },
+  {
+    "location": "NYC",
+    "date": "2025-12-14",
+    "name": "Warsaw",
+    "url": "https://www.ticketmaster.com/event/00006337A2631F6E"
   }
 ]
