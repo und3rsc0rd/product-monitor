@@ -1,18 +1,1 @@
-[
-  {
-    "id": 9722397786407,
-    "gid": "gid://shopify/Product/9722397786407",
-    "vendor": "underscores",
-    "type": "CD",
-    "variants": [
-      {
-        "id": 49694640963879,
-        "price": 1999,
-        "name": "Fishmonger CD",
-        "public_title": null,
-        "sku": "UNDR-800001MultiOS"
-      }
-    ],
-    "remote": false
-  }
-]
+[]
