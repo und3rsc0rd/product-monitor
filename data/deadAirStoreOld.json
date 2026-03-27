@@ -15,5 +15,112 @@
       }
     ],
     "remote": false
+  },
+  {
+    "id": 9688899682599,
+    "gid": "gid://shopify/Product/9688899682599",
+    "vendor": "underscores",
+    "type": "Vinyl",
+    "handle": "fishmonger-vinyl",
+    "variants": [
+      {
+        "id": 49575697449255,
+        "price": 4000,
+        "name": "Fishmonger Vinyl",
+        "public_title": null,
+        "sku": "UNDR-850001MultiOS"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 9688835653927,
+    "gid": "gid://shopify/Product/9688835653927",
+    "vendor": "underscores",
+    "type": "T-Shirt",
+    "handle": "fishmonger-ash-grey-tee",
+    "variants": [
+      {
+        "id": 49575300727079,
+        "price": 3000,
+        "name": "Fishmonger Ash Grey Tee - S",
+        "public_title": "S",
+        "sku": "UNDR-010001AshGreyS"
+      },
+      {
+        "id": 49575300759847,
+        "price": 3000,
+        "name": "Fishmonger Ash Grey Tee - M",
+        "public_title": "M",
+        "sku": "UNDR-010001AshGreyM"
+      },
+      {
+        "id": 49575300792615,
+        "price": 3000,
+        "name": "Fishmonger Ash Grey Tee - L",
+        "public_title": "L",
+        "sku": "UNDR-010001AshGreyL"
+      },
+      {
+        "id": 49575300825383,
+        "price": 3000,
+        "name": "Fishmonger Ash Grey Tee - XL",
+        "public_title": "XL",
+        "sku": "UNDR-010001AshGreyXL"
+      },
+      {
+        "id": 49575300858151,
+        "price": 3000,
+        "name": "Fishmonger Ash Grey Tee - 2XL",
+        "public_title": "2XL",
+        "sku": "UNDR-010001AshGrey2XL"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 9688852562215,
+    "gid": "gid://shopify/Product/9688852562215",
+    "vendor": "underscores",
+    "type": "Hoodie",
+    "handle": "smiley-brown-hoodie",
+    "variants": [
+      {
+        "id": 49575411024167,
+        "price": 6000,
+        "name": "Smiley Brown Hoodie - S",
+        "public_title": "S",
+        "sku": "UNDR-110001BrownS"
+      },
+      {
+        "id": 49575411056935,
+        "price": 6000,
+        "name": "Smiley Brown Hoodie - M",
+        "public_title": "M",
+        "sku": "UNDR-110001BrownM"
+      },
+      {
+        "id": 49575411089703,
+        "price": 6000,
+        "name": "Smiley Brown Hoodie - L",
+        "public_title": "L",
+        "sku": "UNDR-110001BrownL"
+      },
+      {
+        "id": 49575411122471,
+        "price": 6000,
+        "name": "Smiley Brown Hoodie - XL",
+        "public_title": "XL",
+        "sku": "UNDR-110001BrownXL"
+      },
+      {
+        "id": 49575411155239,
+        "price": 6000,
+        "name": "Smiley Brown Hoodie - 2XL",
+        "public_title": "2XL",
+        "sku": "UNDR-110001Brown2XL"
+      }
+    ],
+    "remote": false
   }
 ]
