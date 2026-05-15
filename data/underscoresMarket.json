@@ -51,6 +51,40 @@
     "remote": false
   },
   {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
+      }
+    ],
+    "remote": false
+  },
+  {
     "id": 15489374552137,
     "gid": "gid://shopify/Product/15489374552137",
     "vendor": "underscores",
@@ -204,6 +238,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -362,6 +430,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -520,6 +622,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -678,6 +814,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -836,6 +1006,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -994,6 +1198,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -1152,6 +1390,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -1310,6 +1582,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -1468,6 +1774,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -1626,6 +1966,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -1789,32 +2163,66 @@
     "remote": false
   },
   {
-    "id": 15489374552137,
-    "gid": "gid://shopify/Product/15489374552137",
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
     "vendor": "underscores",
-    "type": "LP",
-    "handle": "u-lp",
+    "type": "CD",
+    "handle": "u-cd",
     "variants": [
       {
-        "id": 55506291621961,
-        "price": 3000,
-        "name": "U–LP",
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
         "public_title": null,
-        "sku": "810090098760"
+        "sku": "810090098784"
       }
     ],
     "remote": false
   },
   {
-    "id": 15489393524809,
-    "gid": "gid://shopify/Product/15489393524809",
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
     "vendor": "underscores",
     "type": "LP",
-    "handle": "u-lp-bundle",
+    "handle": "u-lp-proj-file-ver",
     "variants": [
       {
-        "id": 55506364039241,
-        "price": 6000,
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15489374552137,
+    "gid": "gid://shopify/Product/15489374552137",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp",
+    "variants": [
+      {
+        "id": 55506291621961,
+        "price": 3000,
+        "name": "U–LP",
+        "public_title": null,
+        "sku": "810090098760"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15489393524809,
+    "gid": "gid://shopify/Product/15489393524809",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-bundle",
+    "variants": [
+      {
+        "id": 55506364039241,
+        "price": 6000,
         "name": "U–LP bundle - S",
         "public_title": "S",
         "sku": "55506364039241"
@@ -1942,6 +2350,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -2100,6 +2542,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -2258,6 +2734,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -2416,6 +2926,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -2574,6 +3118,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -2732,6 +3310,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -2890,6 +3502,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -3053,6 +3699,40 @@
     "remote": false
   },
   {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
+      }
+    ],
+    "remote": false
+  },
+  {
     "id": 15489374552137,
     "gid": "gid://shopify/Product/15489374552137",
     "vendor": "underscores",
@@ -3206,6 +3886,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -3364,6 +4078,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -3522,6 +4270,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -3680,6 +4462,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -3838,6 +4654,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -3996,6 +4846,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -4154,6 +5038,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -4312,6 +5230,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -4470,6 +5422,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -4628,6 +5614,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -4786,6 +5806,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -4944,6 +5998,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -5083,25 +6171,59 @@
         "id": 41413581406281,
         "price": 3799,
         "name": "‘Wallsocket (Director's Cut)’ LP",
+        "public_title": null,
+        "sku": "UNDER035-LP"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15403918753865,
+    "gid": "gid://shopify/Product/15403918753865",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "wallsocket-directors-cut-cd",
+    "variants": [
+      {
+        "id": 54765025361993,
+        "price": 1500,
+        "name": "‘Wallsocket (Director's Cut)’ CD",
+        "public_title": null,
+        "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
         "public_title": null,
-        "sku": "UNDER035-LP"
+        "sku": "810090098784"
       }
     ],
     "remote": false
   },
   {
-    "id": 15403918753865,
-    "gid": "gid://shopify/Product/15403918753865",
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
     "vendor": "underscores",
-    "type": "CD",
-    "handle": "wallsocket-directors-cut-cd",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
     "variants": [
       {
-        "id": 54765025361993,
-        "price": 1500,
-        "name": "‘Wallsocket (Director's Cut)’ CD",
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
         "public_title": null,
-        "sku": "54765025361993"
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -5260,6 +6382,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -5418,6 +6574,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -5576,6 +6766,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -5734,6 +6958,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -5892,11 +7150,45 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
       }
     ],
     "remote": false
   },
   {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
+      }
+    ],
+    "remote": false
+  },
+  {
     "id": 15489374552137,
     "gid": "gid://shopify/Product/15489374552137",
     "vendor": "underscores",
@@ -6050,6 +7342,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -6208,6 +7534,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -6366,6 +7726,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -6524,6 +7918,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -6682,6 +8110,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -6833,13 +8295,47 @@
     "vendor": "underscores",
     "type": "CD",
     "handle": "wallsocket-directors-cut-cd",
+    "variants": [
+      {
+        "id": 54765025361993,
+        "price": 1500,
+        "name": "‘Wallsocket (Director's Cut)’ CD",
+        "public_title": null,
+        "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
     "variants": [
       {
-        "id": 54765025361993,
-        "price": 1500,
-        "name": "‘Wallsocket (Director's Cut)’ CD",
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
         "public_title": null,
-        "sku": "54765025361993"
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -6998,6 +8494,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -7156,6 +8686,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -7314,6 +8878,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -7472,6 +9070,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -7630,6 +9262,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -7788,6 +9454,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -7946,6 +9646,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -8109,6 +9843,40 @@
     "remote": false
   },
   {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
+      }
+    ],
+    "remote": false
+  },
+  {
     "id": 15489374552137,
     "gid": "gid://shopify/Product/15489374552137",
     "vendor": "underscores",
@@ -8262,6 +10030,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -8420,6 +10222,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -8554,30 +10390,64 @@
     "vendor": "underscores",
     "type": "LP",
     "handle": "underscores-wallsocket-directors-cut-vinyl",
+    "variants": [
+      {
+        "id": 41413581406281,
+        "price": 3799,
+        "name": "‘Wallsocket (Director's Cut)’ LP",
+        "public_title": null,
+        "sku": "UNDER035-LP"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15403918753865,
+    "gid": "gid://shopify/Product/15403918753865",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "wallsocket-directors-cut-cd",
+    "variants": [
+      {
+        "id": 54765025361993,
+        "price": 1500,
+        "name": "‘Wallsocket (Director's Cut)’ CD",
+        "public_title": null,
+        "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
     "variants": [
       {
-        "id": 41413581406281,
-        "price": 3799,
-        "name": "‘Wallsocket (Director's Cut)’ LP",
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
         "public_title": null,
-        "sku": "UNDER035-LP"
+        "sku": "810090098784"
       }
     ],
     "remote": false
   },
   {
-    "id": 15403918753865,
-    "gid": "gid://shopify/Product/15403918753865",
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
     "vendor": "underscores",
-    "type": "CD",
-    "handle": "wallsocket-directors-cut-cd",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
     "variants": [
       {
-        "id": 54765025361993,
-        "price": 1500,
-        "name": "‘Wallsocket (Director's Cut)’ CD",
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
         "public_title": null,
-        "sku": "54765025361993"
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -8736,6 +10606,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -8894,11 +10798,45 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
       }
     ],
     "remote": false
   },
   {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
+      }
+    ],
+    "remote": false
+  },
+  {
     "id": 15489374552137,
     "gid": "gid://shopify/Product/15489374552137",
     "vendor": "underscores",
@@ -9052,6 +10990,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -9210,6 +11182,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -9368,6 +11374,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -9526,6 +11566,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -9684,6 +11758,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -9842,6 +11950,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -10000,6 +12142,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
@@ -10158,11 +12334,45 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
       }
     ],
     "remote": false
   },
   {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
+      }
+    ],
+    "remote": false
+  },
+  {
     "id": 15489374552137,
     "gid": "gid://shopify/Product/15489374552137",
     "vendor": "underscores",
@@ -10316,6 +12526,40 @@
         "name": "‘Wallsocket (Director's Cut)’ CD",
         "public_title": null,
         "sku": "54765025361993"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488739573833,
+    "gid": "gid://shopify/Product/15488739573833",
+    "vendor": "underscores",
+    "type": "CD",
+    "handle": "u-cd",
+    "variants": [
+      {
+        "id": 55504958193737,
+        "price": 2000,
+        "name": "U–CD",
+        "public_title": null,
+        "sku": "810090098784"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15488740294729,
+    "gid": "gid://shopify/Product/15488740294729",
+    "vendor": "underscores",
+    "type": "LP",
+    "handle": "u-lp-proj-file-ver",
+    "variants": [
+      {
+        "id": 55504961568841,
+        "price": 3000,
+        "name": "U–LP project file Ver.",
+        "public_title": null,
+        "sku": "810090098753"
       }
     ],
     "remote": false
