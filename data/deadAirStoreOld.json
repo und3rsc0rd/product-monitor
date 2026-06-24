@@ -15,5 +15,22 @@
       }
     ],
     "remote": false
+  },
+  {
+    "id": 9688899682599,
+    "gid": "gid://shopify/Product/9688899682599",
+    "vendor": "underscores",
+    "type": "Vinyl",
+    "handle": "fishmonger-vinyl",
+    "variants": [
+      {
+        "id": 49575697449255,
+        "price": 4000,
+        "name": "Fishmonger Vinyl",
+        "public_title": null,
+        "sku": "UNDR-850001MultiOS"
+      }
+    ],
+    "remote": false
   }
 ]
