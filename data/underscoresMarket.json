@@ -181,51 +181,6 @@
     "remote": false
   },
   {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
     "id": 15582645682249,
     "gid": "gid://shopify/Product/15582645682249",
     "vendor": "underscores",
@@ -492,51 +447,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -808,51 +718,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -1124,51 +989,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -1440,51 +1260,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -1756,51 +1531,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -2072,51 +1802,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -2388,51 +2073,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -2704,51 +2344,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -3025,399 +2620,38 @@
     "remote": false
   },
   {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
+    "id": 15582645682249,
+    "gid": "gid://shopify/Product/15582645682249",
     "vendor": "underscores",
     "type": "T-Shirt",
-    "handle": "u-bbt",
+    "handle": "interlochen-arms",
     "variants": [
       {
-        "id": 55670236151881,
+        "id": 55776653803593,
         "price": 3000,
-        "name": "U-BBT - S",
+        "name": "Interlochen Arms TEE - S",
         "public_title": "S",
-        "sku": "UU11012-SM"
+        "sku": "UU11013-SM"
       },
       {
-        "id": 55670236184649,
+        "id": 55776653836361,
         "price": 3000,
-        "name": "U-BBT - M",
+        "name": "Interlochen Arms TEE - M",
         "public_title": "M",
-        "sku": "UU11012-MD"
+        "sku": "UU11013-MD"
       },
       {
-        "id": 55670236217417,
+        "id": 55776653869129,
         "price": 3000,
-        "name": "U-BBT - L",
+        "name": "Interlochen Arms TEE - L",
         "public_title": "L",
-        "sku": "UU11012-LG"
+        "sku": "UU11013-LG"
       },
       {
-        "id": 55670236250185,
+        "id": 55776653901897,
         "price": 3000,
-        "name": "U-BBT - XL",
+        "name": "Interlochen Arms TEE - XL",
         "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15582645682249,
-    "gid": "gid://shopify/Product/15582645682249",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "interlochen-arms",
-    "variants": [
-      {
-        "id": 55776653803593,
-        "price": 3000,
-        "name": "Interlochen Arms TEE - S",
-        "public_title": "S",
-        "sku": "UU11013-SM"
-      },
-      {
-        "id": 55776653836361,
-        "price": 3000,
-        "name": "Interlochen Arms TEE - M",
-        "public_title": "M",
-        "sku": "UU11013-MD"
-      },
-      {
-        "id": 55776653869129,
-        "price": 3000,
-        "name": "Interlochen Arms TEE - L",
-        "public_title": "L",
-        "sku": "UU11013-LG"
-      },
-      {
-        "id": 55776653901897,
-        "price": 3000,
-        "name": "Interlochen Arms TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11013-XL"
-      },
-      {
-        "id": 55776653934665,
-        "price": 3000,
-        "name": "Interlochen Arms TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11013-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15582652137545,
-    "gid": "gid://shopify/Product/15582652137545",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tanktop",
-    "variants": [
-      {
-        "id": 55776657113161,
-        "price": 3000,
-        "name": "U-TANKTOP - S",
-        "public_title": "S",
-        "sku": "UU13014-SM"
-      },
-      {
-        "id": 55776657145929,
-        "price": 3000,
-        "name": "U-TANKTOP - M",
-        "public_title": "M",
-        "sku": "UU13014-MD"
-      },
-      {
-        "id": 55776657178697,
-        "price": 3000,
-        "name": "U-TANKTOP - L",
-        "public_title": "L",
-        "sku": "UU13014-LG"
-      },
-      {
-        "id": 55776657211465,
-        "price": 3000,
-        "name": "U-TANKTOP - XL",
-        "public_title": "XL",
-        "sku": "UU13014-XL"
-      },
-      {
-        "id": 55776657244233,
-        "price": 3000,
-        "name": "U-TANKTOP - XXL",
-        "public_title": "XXL",
-        "sku": "UU13014-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15425090388041,
-    "gid": "gid://shopify/Product/15425090388041",
-    "vendor": "underscores",
-    "type": "",
-    "handle": "do-it-b-w-music-7",
-    "variants": [
-      {
-        "id": 54855037648969,
-        "price": 2000,
-        "name": "‘Music’ b/w ‘Do It’ 7”",
-        "public_title": null,
-        "sku": "810090098258"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 7201292845129,
-    "gid": "gid://shopify/Product/7201292845129",
-    "vendor": "underscores",
-    "type": "LP",
-    "handle": "underscores-wallsocket-directors-cut-vinyl",
-    "variants": [
-      {
-        "id": 41413581406281,
-        "price": 3799,
-        "name": "‘Wallsocket (Director's Cut)’ LP",
-        "public_title": null,
-        "sku": "UNDER035-LP"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15403918753865,
-    "gid": "gid://shopify/Product/15403918753865",
-    "vendor": "underscores",
-    "type": "CD",
-    "handle": "wallsocket-directors-cut-cd",
-    "variants": [
-      {
-        "id": 54765025361993,
-        "price": 1500,
-        "name": "‘Wallsocket (Director's Cut)’ CD",
-        "public_title": null,
-        "sku": "54765025361993"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15488739573833,
-    "gid": "gid://shopify/Product/15488739573833",
-    "vendor": "underscores",
-    "type": "CD",
-    "handle": "u-cd",
-    "variants": [
-      {
-        "id": 55504958193737,
-        "price": 2000,
-        "name": "U–CD",
-        "public_title": null,
-        "sku": "810090098784"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15488740294729,
-    "gid": "gid://shopify/Product/15488740294729",
-    "vendor": "underscores",
-    "type": "LP",
-    "handle": "u-lp-proj-file-ver",
-    "variants": [
-      {
-        "id": 55504961568841,
-        "price": 3000,
-        "name": "U–LP project file Ver.",
-        "public_title": null,
-        "sku": "810090098753"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15489374552137,
-    "gid": "gid://shopify/Product/15489374552137",
-    "vendor": "underscores",
-    "type": "LP",
-    "handle": "u-lp",
-    "variants": [
-      {
-        "id": 55506291621961,
-        "price": 3000,
-        "name": "U–LP",
-        "public_title": null,
-        "sku": "810090098760"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15512031821897,
-    "gid": "gid://shopify/Product/15512031821897",
-    "vendor": "U4ya",
-    "type": "",
-    "handle": "u-light",
-    "variants": [
-      {
-        "id": 55592631861321,
-        "price": 4000,
-        "name": "U-LIGHT",
-        "public_title": null,
-        "sku": "U4YA-LIGHT"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000293961,
-    "gid": "gid://shopify/Product/15514000293961",
-    "vendor": "underscores",
-    "type": "Apparel",
-    "handle": "u-tour-hoodie",
-    "variants": [
-      {
-        "id": 55599717482569,
-        "price": 6000,
-        "name": "U-TOUR HOODIE - S",
-        "public_title": "S",
-        "sku": "UU12010-SM"
-      },
-      {
-        "id": 55599717515337,
-        "price": 6000,
-        "name": "U-TOUR HOODIE - M",
-        "public_title": "M",
-        "sku": "UU12010-MD"
-      },
-      {
-        "id": 55599717548105,
-        "price": 6000,
-        "name": "U-TOUR HOODIE - L",
-        "public_title": "L",
-        "sku": "UU12010-LG"
-      },
-      {
-        "id": 55599717580873,
-        "price": 6000,
-        "name": "U-TOUR HOODIE - XL",
-        "public_title": "XL",
-        "sku": "UU12010-XL"
-      },
-      {
-        "id": 55599717613641,
-        "price": 6000,
-        "name": "U-TOUR HOODIE - 2XL",
-        "public_title": "2XL",
-        "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15529578397769,
-    "gid": "gid://shopify/Product/15529578397769",
-    "vendor": "underscores",
-    "type": "",
-    "handle": "u-necklace",
-    "variants": [
-      {
-        "id": 55646506385481,
-        "price": 2500,
-        "name": "U-NECKLACE",
-        "public_title": null,
-        "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15582645682249,
-    "gid": "gid://shopify/Product/15582645682249",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "interlochen-arms",
-    "variants": [
-      {
-        "id": 55776653803593,
-        "price": 3000,
-        "name": "Interlochen Arms TEE - S",
-        "public_title": "S",
-        "sku": "UU11013-SM"
-      },
-      {
-        "id": 55776653836361,
-        "price": 3000,
-        "name": "Interlochen Arms TEE - M",
-        "public_title": "M",
-        "sku": "UU11013-MD"
-      },
-      {
-        "id": 55776653869129,
-        "price": 3000,
-        "name": "Interlochen Arms TEE - L",
-        "public_title": "L",
-        "sku": "UU11013-LG"
-      },
-      {
-        "id": 55776653901897,
-        "price": 3000,
-        "name": "Interlochen Arms TEE - XL",
-        "public_title": "XL",
         "sku": "UU11013-XL"
       },
       {
@@ -3652,51 +2886,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -3968,51 +3157,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -4284,51 +3428,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -4600,51 +3699,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -4916,51 +3970,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -5232,51 +4241,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -5548,51 +4512,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -5864,51 +4783,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -6171,60 +5045,15 @@
     "id": 15529578397769,
     "gid": "gid://shopify/Product/15529578397769",
     "vendor": "underscores",
-    "type": "",
-    "handle": "u-necklace",
-    "variants": [
-      {
-        "id": 55646506385481,
-        "price": 2500,
-        "name": "U-NECKLACE",
-        "public_title": null,
-        "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
+    "type": "",
+    "handle": "u-necklace",
+    "variants": [
       {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
+        "id": 55646506385481,
+        "price": 2500,
+        "name": "U-NECKLACE",
+        "public_title": null,
+        "sku": "55646506385481"
       }
     ],
     "remote": false
@@ -6496,51 +5325,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -6812,51 +5596,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -7133,51 +5872,6 @@
     "remote": false
   },
   {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
     "id": 15582645682249,
     "gid": "gid://shopify/Product/15582645682249",
     "vendor": "underscores",
@@ -7444,51 +6138,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -7760,51 +6409,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -8076,51 +6680,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -8392,51 +6951,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -8708,51 +7222,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -9017,58 +7486,13 @@
     "vendor": "underscores",
     "type": "",
     "handle": "u-necklace",
-    "variants": [
-      {
-        "id": 55646506385481,
-        "price": 2500,
-        "name": "U-NECKLACE",
-        "public_title": null,
-        "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
+    "variants": [
       {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
+        "id": 55646506385481,
+        "price": 2500,
+        "name": "U-NECKLACE",
+        "public_title": null,
+        "sku": "55646506385481"
       }
     ],
     "remote": false
@@ -9340,51 +7764,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -9656,51 +8035,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -9972,51 +8306,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -10288,51 +8577,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -10604,51 +8848,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -10920,51 +9119,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -11236,51 +9390,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -11552,51 +9661,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -11859,60 +9923,15 @@
     "id": 15529578397769,
     "gid": "gid://shopify/Product/15529578397769",
     "vendor": "underscores",
-    "type": "",
-    "handle": "u-necklace",
-    "variants": [
-      {
-        "id": 55646506385481,
-        "price": 2500,
-        "name": "U-NECKLACE",
-        "public_title": null,
-        "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
+    "type": "",
+    "handle": "u-necklace",
+    "variants": [
       {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
+        "id": 55646506385481,
+        "price": 2500,
+        "name": "U-NECKLACE",
+        "public_title": null,
+        "sku": "55646506385481"
       }
     ],
     "remote": false
@@ -12184,51 +10203,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -12500,51 +10474,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -12821,51 +10750,6 @@
     "remote": false
   },
   {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
     "id": 15582645682249,
     "gid": "gid://shopify/Product/15582645682249",
     "vendor": "underscores",
@@ -13132,51 +11016,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -13448,51 +11287,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -13764,51 +11558,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -14080,51 +11829,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -14396,51 +12100,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -14708,55 +12367,10 @@
     "variants": [
       {
         "id": 55646506385481,
-        "price": 2500,
-        "name": "U-NECKLACE",
-        "public_title": null,
-        "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
+        "price": 2500,
+        "name": "U-NECKLACE",
+        "public_title": null,
+        "sku": "55646506385481"
       }
     ],
     "remote": false
@@ -15028,51 +12642,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -15344,51 +12913,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -15660,51 +13184,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -15976,51 +13455,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -16292,51 +13726,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -16608,51 +13997,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -16924,51 +14268,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -17240,51 +14539,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -17539,68 +14793,23 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15529578397769,
-    "gid": "gid://shopify/Product/15529578397769",
-    "vendor": "underscores",
-    "type": "",
-    "handle": "u-necklace",
-    "variants": [
-      {
-        "id": 55646506385481,
-        "price": 2500,
-        "name": "U-NECKLACE",
-        "public_title": null,
-        "sku": "55646506385481"
       }
     ],
     "remote": false
   },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
+  {
+    "id": 15529578397769,
+    "gid": "gid://shopify/Product/15529578397769",
+    "vendor": "underscores",
+    "type": "",
+    "handle": "u-necklace",
+    "variants": [
       {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
+        "id": 55646506385481,
+        "price": 2500,
+        "name": "U-NECKLACE",
+        "public_title": null,
+        "sku": "55646506385481"
       }
     ],
     "remote": false
@@ -17872,51 +15081,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -18188,51 +15352,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -18504,51 +15623,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -18820,51 +15894,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -19136,51 +16165,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -19452,51 +16436,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -19768,51 +16707,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -20084,51 +16978,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
@@ -20400,51 +17249,6 @@
         "name": "U-NECKLACE",
         "public_title": null,
         "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15536492707913,
-    "gid": "gid://shopify/Product/15536492707913",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-bbt",
-    "variants": [
-      {
-        "id": 55670236151881,
-        "price": 3000,
-        "name": "U-BBT - S",
-        "public_title": "S",
-        "sku": "UU11012-SM"
-      },
-      {
-        "id": 55670236184649,
-        "price": 3000,
-        "name": "U-BBT - M",
-        "public_title": "M",
-        "sku": "UU11012-MD"
-      },
-      {
-        "id": 55670236217417,
-        "price": 3000,
-        "name": "U-BBT - L",
-        "public_title": "L",
-        "sku": "UU11012-LG"
-      },
-      {
-        "id": 55670236250185,
-        "price": 3000,
-        "name": "U-BBT - XL",
-        "public_title": "XL",
-        "sku": "UU11012-XL"
-      },
-      {
-        "id": 55670236282953,
-        "price": 3000,
-        "name": "U-BBT - XXL",
-        "public_title": "XXL",
-        "sku": "UU11012-2X"
       }
     ],
     "remote": false
