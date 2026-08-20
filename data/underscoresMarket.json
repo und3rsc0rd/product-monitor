@@ -164,51 +164,6 @@
     "remote": false
   },
   {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
     "id": 15529578397769,
     "gid": "gid://shopify/Product/15529578397769",
     "vendor": "underscores",
@@ -475,51 +430,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -791,51 +701,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -1107,51 +972,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -1423,51 +1243,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -1739,51 +1514,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -2055,51 +1785,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -2371,51 +2056,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -2687,51 +2327,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -3008,58 +2603,13 @@
     "remote": false
   },
   {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
+    "id": 15529578397769,
+    "gid": "gid://shopify/Product/15529578397769",
     "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
+    "type": "",
+    "handle": "u-necklace",
     "variants": [
       {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15529578397769,
-    "gid": "gid://shopify/Product/15529578397769",
-    "vendor": "underscores",
-    "type": "",
-    "handle": "u-necklace",
-    "variants": [
-      {
         "id": 55646506385481,
         "price": 2500,
         "name": "U-NECKLACE",
@@ -3319,51 +2869,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -3635,51 +3140,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -3951,51 +3411,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -4267,51 +3682,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -4583,51 +3953,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -4899,51 +4224,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -5215,51 +4495,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -5531,51 +4766,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -5847,80 +5037,35 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
+      }
+    ],
+    "remote": false
+  },
+  {
+    "id": 15529578397769,
+    "gid": "gid://shopify/Product/15529578397769",
+    "vendor": "underscores",
+    "type": "",
+    "handle": "u-necklace",
+    "variants": [
+      {
+        "id": 55646506385481,
+        "price": 2500,
+        "name": "U-NECKLACE",
+        "public_title": null,
+        "sku": "55646506385481"
       }
     ],
     "remote": false
   },
   {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
+    "id": 15582645682249,
+    "gid": "gid://shopify/Product/15582645682249",
     "vendor": "underscores",
     "type": "T-Shirt",
-    "handle": "u-tour-tee",
+    "handle": "interlochen-arms",
     "variants": [
       {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15529578397769,
-    "gid": "gid://shopify/Product/15529578397769",
-    "vendor": "underscores",
-    "type": "",
-    "handle": "u-necklace",
-    "variants": [
-      {
-        "id": 55646506385481,
-        "price": 2500,
-        "name": "U-NECKLACE",
-        "public_title": null,
-        "sku": "55646506385481"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15582645682249,
-    "gid": "gid://shopify/Product/15582645682249",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "interlochen-arms",
-    "variants": [
-      {
         "id": 55776653803593,
         "price": 3000,
         "name": "Interlochen Arms TEE - S",
@@ -6163,51 +5308,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -6479,51 +5579,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -6795,51 +5850,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -7111,51 +6121,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -7427,51 +6392,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -7743,51 +6663,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -8059,51 +6934,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -8375,51 +7205,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -8691,51 +7476,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -9007,51 +7747,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -9312,62 +8007,17 @@
       },
       {
         "id": 55599717580873,
-        "price": 6000,
-        "name": "U-TOUR HOODIE - XL",
-        "public_title": "XL",
-        "sku": "UU12010-XL"
-      },
-      {
-        "id": 55599717613641,
-        "price": 6000,
-        "name": "U-TOUR HOODIE - 2XL",
-        "public_title": "2XL",
-        "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
+        "price": 6000,
+        "name": "U-TOUR HOODIE - XL",
         "public_title": "XL",
-        "sku": "UU11009-XL"
+        "sku": "UU12010-XL"
       },
       {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
+        "id": 55599717613641,
+        "price": 6000,
+        "name": "U-TOUR HOODIE - 2XL",
+        "public_title": "2XL",
+        "sku": "UU12010-2X"
       }
     ],
     "remote": false
@@ -9639,51 +8289,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -9955,51 +8560,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -10276,51 +8836,6 @@
     "remote": false
   },
   {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
     "id": 15529578397769,
     "gid": "gid://shopify/Product/15529578397769",
     "vendor": "underscores",
@@ -10587,51 +9102,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -10903,51 +9373,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -11219,51 +9644,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -11535,51 +9915,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -11851,51 +10186,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -12158,60 +10448,15 @@
         "id": 55599717580873,
         "price": 6000,
         "name": "U-TOUR HOODIE - XL",
-        "public_title": "XL",
-        "sku": "UU12010-XL"
-      },
-      {
-        "id": 55599717613641,
-        "price": 6000,
-        "name": "U-TOUR HOODIE - 2XL",
-        "public_title": "2XL",
-        "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
         "public_title": "XL",
-        "sku": "UU11009-XL"
+        "sku": "UU12010-XL"
       },
       {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
+        "id": 55599717613641,
+        "price": 6000,
+        "name": "U-TOUR HOODIE - 2XL",
+        "public_title": "2XL",
+        "sku": "UU12010-2X"
       }
     ],
     "remote": false
@@ -12483,51 +10728,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -12799,51 +10999,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -13115,51 +11270,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -13431,51 +11541,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -13747,51 +11812,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -14063,51 +12083,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -14379,51 +12354,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -14695,51 +12625,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -15005,57 +12890,12 @@
         "public_title": "XL",
         "sku": "UU12010-XL"
       },
-      {
-        "id": 55599717613641,
-        "price": 6000,
-        "name": "U-TOUR HOODIE - 2XL",
-        "public_title": "2XL",
-        "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
+      {
+        "id": 55599717613641,
+        "price": 6000,
+        "name": "U-TOUR HOODIE - 2XL",
+        "public_title": "2XL",
+        "sku": "UU12010-2X"
       }
     ],
     "remote": false
@@ -15327,51 +13167,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -15643,51 +13438,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -15959,51 +13709,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -16275,51 +13980,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -16591,51 +14251,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -16907,51 +14522,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -17223,51 +14793,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -17539,51 +15064,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -17837,69 +15317,24 @@
       },
       {
         "id": 55599717548105,
-        "price": 6000,
-        "name": "U-TOUR HOODIE - L",
-        "public_title": "L",
-        "sku": "UU12010-LG"
-      },
-      {
-        "id": 55599717580873,
-        "price": 6000,
-        "name": "U-TOUR HOODIE - XL",
-        "public_title": "XL",
-        "sku": "UU12010-XL"
-      },
-      {
-        "id": 55599717613641,
         "price": 6000,
-        "name": "U-TOUR HOODIE - 2XL",
-        "public_title": "2XL",
-        "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
+        "name": "U-TOUR HOODIE - L",
         "public_title": "L",
-        "sku": "UU11009-LG"
+        "sku": "UU12010-LG"
       },
       {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
+        "id": 55599717580873,
+        "price": 6000,
+        "name": "U-TOUR HOODIE - XL",
         "public_title": "XL",
-        "sku": "UU11009-XL"
+        "sku": "UU12010-XL"
       },
       {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
+        "id": 55599717613641,
+        "price": 6000,
+        "name": "U-TOUR HOODIE - 2XL",
+        "public_title": "2XL",
+        "sku": "UU12010-2X"
       }
     ],
     "remote": false
@@ -18171,51 +15606,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -18487,51 +15877,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -18803,51 +16148,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -19119,51 +16419,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -19435,51 +16690,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -19751,51 +16961,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -20067,51 +17232,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -20383,51 +17503,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
@@ -20699,51 +17774,6 @@
         "name": "U-TOUR HOODIE - 2XL",
         "public_title": "2XL",
         "sku": "UU12010-2X"
-      }
-    ],
-    "remote": false
-  },
-  {
-    "id": 15514000883785,
-    "gid": "gid://shopify/Product/15514000883785",
-    "vendor": "underscores",
-    "type": "T-Shirt",
-    "handle": "u-tour-tee",
-    "variants": [
-      {
-        "id": 55599724036169,
-        "price": 3000,
-        "name": "U-TOUR TEE - S",
-        "public_title": "S",
-        "sku": "UU11009-SM"
-      },
-      {
-        "id": 55599724068937,
-        "price": 3000,
-        "name": "U-TOUR TEE - M",
-        "public_title": "M",
-        "sku": "UU11009-MD"
-      },
-      {
-        "id": 55599724101705,
-        "price": 3000,
-        "name": "U-TOUR TEE - L",
-        "public_title": "L",
-        "sku": "UU11009-LG"
-      },
-      {
-        "id": 55599724134473,
-        "price": 3000,
-        "name": "U-TOUR TEE - XL",
-        "public_title": "XL",
-        "sku": "UU11009-XL"
-      },
-      {
-        "id": 55599724167241,
-        "price": 3000,
-        "name": "U-TOUR TEE - XXL",
-        "public_title": "XXL",
-        "sku": "UU11009-2X"
       }
     ],
     "remote": false
